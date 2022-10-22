@@ -10,10 +10,6 @@
 body {
     background-color: #2ab3ac;
 }
-h1 {
-    text-align: center; /* ---------------------------------------------------*/
-   
-}
 .calculator{
     width: 250px;
     position: absolute;
